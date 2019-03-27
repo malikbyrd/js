@@ -50,8 +50,11 @@ li a:hover:not(.active) {
 .item5 { grid-area: footer; }
 
 .grid-container {
+     max-width: 1000px;
+    grid-template-columns: 17% 17% 17% 17% 17% 15%;
   display: grid;
   grid-template-areas:
+      
     'header header header header header header'
     'header header header header header header'
      'header header header header header header'
