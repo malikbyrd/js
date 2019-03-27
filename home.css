@@ -67,12 +67,12 @@ li a:hover:not(.active) {
         'main main main main right right'
     'menu footer footer footer footer footer';
   grid-gap: 10px;
-  background-color: white;
+  background-color: red;
   padding: 10px;
 }
 
 .grid-container > div {
-  background-color: red;
+  background-color: white;
   text-align: center;
   padding: 20px 0;
   font-size: 30px;
