@@ -77,8 +77,8 @@ li a:hover:not(.active) {
         'main main main main right right'
         'main main main main right right'
     'footer footer footer footer footer footer';
-  grid-gap: 5px;
-  background-color: orange;
+  grid-gap: 2px;
+  background-color: grey;
   padding: 5px;
 }
 
