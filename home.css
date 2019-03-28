@@ -21,7 +21,9 @@ ul.a {
   list-style-type: circle;
 }
 
-
+.list{
+     list-style-type: circle;
+}
 ul {
   list-style-type: none;
   margin: 0;
