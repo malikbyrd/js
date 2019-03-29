@@ -17,14 +17,10 @@ p {
   text-align: ;
      font-size:20px;
 }
-/*ul.a {
-  list-style-type: circle;
-}
 
-.list{
-     list-style-type: circle;
-}
-ul {
+
+
+.navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -34,7 +30,7 @@ ul {
   top: 0;
   width: 100%;
 }
-
+/*
 li {
   float: left;
 }
