@@ -31,11 +31,11 @@ p {
   width: 100%;
 }
 
-ol {
+ul {
   float: left;
 }
 
-ol a {
+ul a {
   display: block;
   color: white;
   text-align: center;
@@ -43,7 +43,7 @@ ol a {
   text-decoration: none;
 }
 
-ol a:hover:not(.active) {
+ul a:hover:not(.active) {
   background-color: blue;
 }
 
@@ -112,7 +112,7 @@ nav {
 }
 
 /* Style the list inside the menu */
-nav ul {
+nav ol {
   list-style-type: none;
   padding: 0;
 }
