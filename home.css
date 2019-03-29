@@ -17,7 +17,7 @@ p {
   text-align: ;
      font-size:20px;
 }
-ul.a {
+/*ul.a {
   list-style-type: circle;
 }
 
@@ -53,7 +53,7 @@ li a:hover:not(.active) {
 
 .active {
   background-color: #4CAF50;
-}/*
+}
 .item1 { grid-area: header; }
 .item2 { grid-area: menu; }
 .item3 { grid-area: main; }
