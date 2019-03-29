@@ -103,7 +103,7 @@ header {
 /* Create two columns/boxes that floats next to each other */
 nav {
   float: left;
-  width: 30%;
+  width: 15%;
   height: 500px; /* only for demonstration, should be removed */
   background: #ccc;
   padding: 20px;
@@ -118,7 +118,7 @@ nav ol {
 article {
   float: left;
   padding: 20px;
-  width: 70%;
+  width: 85%;
   background-color: #f1f1f1;
   height: 500px; /* only for demonstration, should be removed */
 }
