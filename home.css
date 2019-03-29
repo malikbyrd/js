@@ -18,37 +18,36 @@ p {
      font-size:20px;
 }
 
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
 
-
-.nav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+/* Style the top navigation bar */
+.topnav {
   overflow: hidden;
   background-color: #333;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-ul {
-  float: left;
 }
 
-li a {
+/* Style the topnav links */
+.topnav a {
+  float: left;
   display: block;
-  color: white;
+  color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
-ul a:hover:not(.active) {
-  background-color: blue;
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
 }
 
-.active {
-  background-color: #4CAF50;
-}/*
+/*
 .item1 { grid-area: header; }
 .item2 { grid-area: menu; }
 .item3 { grid-area: main; }
