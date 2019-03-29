@@ -30,12 +30,12 @@ p {
   top: 0;
   width: 100%;
 }
-/*
-li {
+
+ol {
   float: left;
 }
 
-li a {
+ol a {
   display: block;
   color: white;
   text-align: center;
@@ -43,13 +43,13 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
+ol a:hover:not(.active) {
   background-color: blue;
 }
 
 .active {
   background-color: #4CAF50;
-}
+}/*
 .item1 { grid-area: header; }
 .item2 { grid-area: menu; }
 .item3 { grid-area: main; }
