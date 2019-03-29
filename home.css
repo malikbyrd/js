@@ -35,7 +35,7 @@ ul {
   float: left;
 }
 
-ul a {
+li a {
   display: block;
   color: white;
   text-align: center;
