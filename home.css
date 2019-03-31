@@ -21,7 +21,7 @@ p {
 
 /* Style the header */
 .header {
-  background-color: red;
+  background-color: white;
   padding: 20px;
   text-align: center;
 }
@@ -44,7 +44,7 @@ p {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: teal;
+  background-color: Azure ;
   color: black;
 }
 
@@ -84,7 +84,7 @@ article {
   float: left;
   padding: 20px;
   width: 85%;
-  background: pink;
+  background: white;
   height: 500px; /* only for demonstration, should be removed */
 }
 
