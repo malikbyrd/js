@@ -44,7 +44,7 @@ p {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: royalblue;
+  background-color: cream;
   color: black;
 }
 
@@ -70,7 +70,7 @@ nav {
   float: left;
   width: 15%;
   height: 500px; /* only for demonstration, should be removed */
-  background: #ccc;
+  background: light grey;
   padding: 20px;
 }
 
@@ -97,7 +97,7 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: grey;
+  background-color:light grey;
   padding: 10px;
   text-align: center;
   color: white;
