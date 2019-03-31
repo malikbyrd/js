@@ -21,7 +21,7 @@ p {
 /* Style the header */
 .header {
      background-image: url("brackets.png");
-  background-color: white;
+  background-color: red;
   padding: 20px;
   text-align: center;
 }
@@ -44,7 +44,7 @@ p {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: cream;
+  background-color: green;
   color: black;
 }
 
@@ -58,7 +58,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: white;
+  background-color: yellw;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -70,7 +70,7 @@ nav {
   float: left;
   width: 15%;
   height: 500px; /* only for demonstration, should be removed */
-  background: light grey;
+  background-color: light grey;
   padding: 20px;
 }
 
@@ -84,7 +84,7 @@ article {
   float: left;
   padding: 20px;
   width: 85%;
-  background-color: white;
+  background-color: pink;
   height: 500px; /* only for demonstration, should be removed */
 }
 
