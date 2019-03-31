@@ -29,7 +29,7 @@ p {
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: :black;
+  background-color: :purple;
 }
 
 /* Style the topnav links */
@@ -44,7 +44,7 @@ p {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: green;
+  background-color: cream;
   color: black;
 }
 
@@ -58,7 +58,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: yellw;
+  background-color: yellow;
   padding: 30px;
   text-align: center;
   font-size: 35px;
