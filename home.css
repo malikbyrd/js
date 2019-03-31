@@ -70,7 +70,7 @@ nav {
   float: left;
   width: 15%;
   height: 500px; /* only for demonstration, should be removed */
-  background-color: light grey;
+  background-color: lightgrey;
   padding: 20px;
 }
 
@@ -97,7 +97,7 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color:light grey;
+  background-color:lightgrey;
   padding: 10px;
   text-align: center;
   color: white;
