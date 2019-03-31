@@ -44,7 +44,7 @@ p {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: cream;
+  background-color: teal;
   color: black;
 }
 
