@@ -3,6 +3,11 @@ body{
  background-color:royalblue;
     margin:0;
 }
+h1{
+ text-align: center;
+  color: white;
+}
+
 
 /* Style the header */
 .header {
