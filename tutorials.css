@@ -1,4 +1,33 @@
 
 body{
-ckground-color:red;
+background-color:red;
+}
+
+/* Style the header */
+.header {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: :purple;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: Azure ;
+  color: black;
 }
